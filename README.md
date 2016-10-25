@@ -1,5 +1,5 @@
 # zgen-setup-helper
-oh-my-zsh like install script for zgen
+[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) like install script for [zgen](https://github.com/tarjoilija/zgen)
 
 ## Getting Started
 
