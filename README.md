@@ -31,3 +31,4 @@ https://github.com/tarjoilija/zgen
 
 ## TODO:
 * Auto-update
+* Add information about compaudit/compinit warning. Something along the lines of https://github.com/robbyrussell/oh-my-zsh/blob/master/lib/compfix.zsh
