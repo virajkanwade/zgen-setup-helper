@@ -28,3 +28,6 @@ sh -c "$(wget https://raw.githubusercontent.com/virajkanwade/zgen-setup-helper/m
 
 ## Next:
 https://github.com/tarjoilija/zgen
+
+## TODO:
+* Auto-update
