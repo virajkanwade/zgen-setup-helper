@@ -32,3 +32,6 @@ https://github.com/tarjoilija/zgen
 ## TODO:
 * Auto-update
 * Show information about compaudit/compinit warning, to put first timers at ease. Something along the lines of https://github.com/robbyrussell/oh-my-zsh/blob/master/lib/compfix.zsh
+
+## Known Issues:
+* Return status icon does not show up - https://github.com/zplug/zplug/issues/95
