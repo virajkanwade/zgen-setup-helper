@@ -72,6 +72,7 @@ if ! zgen saved; then
   zgen oh-my-zsh plugins/python
   zgen oh-my-zsh plugins/pip
   zgen oh-my-zsh plugins/virtualenv
+  zgen oh-my-zsh plugins/virtualenvwrapper
 
   if [ $(echo $OSTYPE | grep -ci darwin) = 1 ]; then
     # Load OSX-specific plugins
