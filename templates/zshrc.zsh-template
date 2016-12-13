@@ -76,7 +76,6 @@ if ! zgen saved; then
 
   if [ $(echo $OSTYPE | grep -ci darwin) = 1 ]; then
     # Load OSX-specific plugins
-    zgen oh-my-zsh plugins/brew
     zgen oh-my-zsh plugins/osx
   fi
 
