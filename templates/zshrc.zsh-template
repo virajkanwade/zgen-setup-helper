@@ -123,3 +123,10 @@ fi
 
 # Show hostname in zsh prompt
 export PROMPT="${${(%):-%m}#1} ${PROMPT}"
+
+# python virtualenvwrapper
+export WORKON_HOME=$HOME/.virtualenvs
+#export PROJECT_HOME=$HOME/Devel
+source /usr/local/bin/virtualenvwrapper.sh
+# unset required for showing env name in prompt
+unset VIRTUAL_ENV_DISABLE_PROMPT
